@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Nagios
 %define	pnam	Plugin-SNMP
 Summary:	Nagios::Plugin::SNMP - Helper module to make writing SNMP-based plugins for Nagios easier.
