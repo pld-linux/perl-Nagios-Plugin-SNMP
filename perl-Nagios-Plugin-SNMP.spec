@@ -7,7 +7,7 @@
 Summary:	Nagios::Plugin::SNMP - Helper module to make writing SNMP-based plugins for Nagios easier.
 Name:		perl-Nagios-Plugin-SNMP
 Version:	1.2
-Release:	2
+Release:	3
 License:	LGPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Nagios/%{pdir}-%{pnam}-%{version}.tgz
